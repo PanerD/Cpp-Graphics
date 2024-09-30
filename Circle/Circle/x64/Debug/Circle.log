@@ -1,0 +1,6 @@
+﻿  Circle.cpp
+C:\Users\FUJITSU\Desktop\Circle\include\file.h(17,11): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\FUJITSU\Desktop\Circle\Circle\Circle\Circle.cpp(48,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FUJITSU\Desktop\Circle\Circle\Circle\Circle.cpp(49,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Circle.vcxproj -> C:\Users\FUJITSU\Desktop\Circle\Circle\x64\Debug\Circle.exe

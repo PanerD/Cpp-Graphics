@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FUJITSU\\Desktop\\Circle\\Circle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF121BD8-3B40-4875-943D-4BA38D375C24}|Circle\\Circle.vcxproj|C:\\Users\\FUJITSU\\Desktop\\Circle\\Circle\\Circle\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF121BD8-3B40-4875-943D-4BA38D375C24}|Circle\\Circle.vcxproj|solutionrelative:Circle\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "C:\\Users\\FUJITSU\\Desktop\\Circle\\Circle\\Circle\\Circle.cpp",
+              "RelativeDocumentMoniker": "Circle\\Circle.cpp",
+              "ToolTip": "C:\\Users\\FUJITSU\\Desktop\\Circle\\Circle\\Circle\\Circle.cpp",
+              "RelativeToolTip": "Circle\\Circle.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAwHkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T23:31:49.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
